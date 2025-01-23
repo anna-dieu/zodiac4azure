@@ -4,8 +4,9 @@
 <div class="container">
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
 
-        <h1>Anna Dao</h1>
-        <h3>Check your zodiac.</h3>
+    <h1 style="color: blue; margin-bottom: 1em;">Anna Dao</h1>
+    <h2 style="margin-bottom: 1em;">Zodiac Lab</h2>
+    <h3 style="margin-bottom: 1em;">Check your zodiac.</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
         </p>
